@@ -1,0 +1,99 @@
+            Kei Nishikori          Japan    29      5360      1.00
+             Rafael Nadal          Spain    32      5260      1.00
+           Novak Djokovic         Serbia    31      3620      1.00
+           Kevin Anderson   South Africa    32      2940      0.00
+         Alexander Zverev        Germany    22      2820      0.00
+             Fabio Fogini          Italy    31      2720      0.00
+            Roger Federer    Switzerland    37      2520      0.00
+            Dominic Thiem        Austria    25      2100      0.00
+           Juan del-Potro      Argentina    30      1800      0.00
+               John Isner  United States    34      1620      0.60
+              Marin Cilic        Croatia    30      1260      0.00
+         Stefan Tsitsipas         Greece    20      1260      0.00
+           Frances Tiafoe  United States    21      1260      0.00
+             Gael Monfils         France    32      1080      0.00
+             Nick Kyrgios        Denmark    27      1080      0.00
+             Milos Raonic         Canada    28       900      0.00
+            Stan Wawrinka    Switzerland    34       225      0.00
+          Daniil Medvedev         Russia    23       225      0.00
+              Borna Coric        Croatia    22       225      0.00
+     Nikoloz Basilashvili        Georgia    27       225      0.00
+         Marco Cecchinato          Italy    26       225      0.00
+    Roberto Bautista-Agut          Spain    31       225      0.00
+              Guido Pella      Argentina    28       225      0.00
+         Denis Shapovalov         Canada    20       225      0.00
+             David Goffin        Germany    28       225      0.00
+        Diego Schwartzman      Argentina    26       225      0.00
+            Lucas Pouille         France    25       225      0.00
+           Alex de-Minaur      Australia    20       225      0.00
+              Kyle Edmund        England    24       225      0.00
+             Gilles Simon         France    34       225      0.00
+    Felix Auger-Aliassime         Canada    18       225      0.00
+            Dusan Lajovic         Serbia    28       225      0.00
+              Laslo Djere         Serbia    23       225      0.00
+        Matteo Berrettini          Italy    23       225      0.00
+           Cristian Garin          Chile    22       225      0.00
+         Marton Fucsovics        Hungary    27       225      0.00
+        Fernando Verdasco          Spain    35       225      0.00
+          Richard Gasquet         France    32       225      0.00
+    Pierre-Hugues Herbert         France    28       225      0.00
+           Hubert Hurkacz         Poland    22       225      0.00
+            Jeremy Chardy         France    32       225      0.00
+      Pablo Carreno-Busta          Spain    27       225      0.00
+               Radu Albot       Maldives    29       225      0.00
+           Cameron Norrie        England    23       225      0.00
+             Benoit Paire         France    30       225      0.00
+        Mikhail Kukushkin     Kazakhstan    31       225      0.00
+          Grigor Dimitrov       Bulgaria    27       225      0.00
+             Pablo Cuevas        Uruguay    27       225      0.00
+         Adrian Mannarino         France    30       225      0.00
+       Jan-Lennard Struff        Germany    29       225      0.00
+             Taylor Fritz  United States    21       225      0.00
+            Reilly Opelka  United States    21       225      0.00
+            Matthew Ebden      Australia    31       225      0.00
+              Jaume Munar          Spain    22       225      0.00
+    Philipp Kohlschreiber        Germany    35       225      0.00
+             John Millman      Australia    29       225      0.00
+            Damir Dzumhur         Bosnia    26       225      0.00
+            Steve Johnson  United States    29       225      0.00
+            Martin Klizan       Slovakia    29       225      0.00
+              Sam Querrey  United States    31       225      0.00
+              Ugo Humbert         France    20       225      0.00
+       Mackenzie McDonald  United States    24       225      0.00
+              Robin Haase    Netherlands    32       225      0.00
+            Andreas Seppi          Italy    35       225      0.00
+           Leonardo Mayer      Argentina    31       225      0.00
+           Lorenzo Sonego          Italy    24       225      0.00
+          Jordan Thompson      Australia    25       225      0.00
+         Filip Krajinovic         Serbia    27       225      0.00
+        Ricardas Berankis      Lithuania    28       225      0.00
+            Nicolas Jarry          Chile    23       225      0.00
+               Joao Sousa       Portugal    30       225      0.00
+     Juan Ignacio-Londero      Argentina    25       225      0.00
+            Ernest Gulbis         Latvia    30       225      0.00
+       Yoshihito Nishioka          Japan    23       225      0.00
+              Casper Ruud         Norway    20       225      0.00
+             Aljaz Bedene       Slovenia    29       225      0.00
+        Federico Delbonis      Argentina    28       225      0.00
+            Andrey Rublev         Russia    21       225      0.00
+              Denis Kudla  United States    26       225      0.00
+             Marius Copil        Romania    28       225      0.00
+          Peter Gojowczyk        Germany    29       225      0.00
+             Daniel Evans        England    28       225      0.00
+        Miomir Kecmanovic         Serbia    19       225      0.00
+            Bernard Tomic      Australia    26       225      0.00
+  Roberto Carballes-Baena          Spain    26       225      0.00
+            Bradley Klahn  United States    28       225      0.00
+     Albert Ramos-Vinolas          Spain    31       225      0.00
+     Prajnesh Gunneswaran          India    29       225      0.00
+             Malek Jaziri        Tunisia    35       225      0.00
+             Lloyd Harris   South Africa    22       225      0.00
+       Jo-Wilfried Tsonga         France    34       225      0.00
+          Tennys Sandgren  United States    27       225      0.00
+         Alexander Bublik     Kazakhstan    21       225      0.00
+            Pablo Andujar          Spain    33       225      0.00
+             Hugo Dellien        Bolivia    25       225      0.00
+             Ivo Karlovic        Croatia    40       225      0.00
+          Guido Andreozzi       Argentia    27       225      0.00
+              Jiri Vesely Czech Republic    25       225      0.00
+          Thomas Fabbiano          Italy    30       225      0.00
